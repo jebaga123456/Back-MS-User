@@ -1,4 +1,4 @@
-# 📦 NestJS Serverless Lambda API
+# 📦 Serverless Lambda API
 
 This is a **REST API**  using the **Spring boot**, featuring:
 
