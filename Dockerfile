@@ -13,7 +13,7 @@ ENTRYPOINT ["sh", "-c"]
 CMD ["exec java -Djava.security.egd=file:/dev/./urandom -jar $APP_FILE"]
 EXPOSE 8085
 
-# mvn clean install 
-# docker build  -t us.gcr.io/hondu-pf/ms-user:1.2.9 -f Dockerfile .
-# gcloud docker -- push us.gcr.io/hondu-pf/ms-user:1.2.9
+####### mvn clean install 
+###### docker build  -t us.gcr.io/hondu-pf/ms-user:1.2.9 -f Dockerfile .
+##### gcloud docker -- push us.gcr.io/hondu-pf/ms-user:1.2.9
 
