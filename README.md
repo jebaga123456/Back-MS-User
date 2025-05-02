@@ -1,6 +1,6 @@
 # 📦 Serverless Lambda API
 
-This is a **REST API**  using the **Spring boot**, featuring:
+This is a **REST API**  using the **Spring boot*****, featuring:
 
 
 - ✅ Swagger documentation
